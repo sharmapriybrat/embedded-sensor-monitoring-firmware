@@ -1,0 +1,8 @@
+embedded_monitor
+embedded_monitor.exe
+test_monitor
+test_monitor.exe
+telemetry.csv
+*.o
+.vscode/
+.DS_Store
